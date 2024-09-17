@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    background-color: yellow;
+}
+
+.food-photo {
+    height: auto;
+    width: 400px;
+}
+
+a {
+    font-size: 18px;
+}
